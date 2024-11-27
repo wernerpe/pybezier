@@ -1,5 +1,6 @@
 import numpy as np
-from typing import List, Callable, Self
+from typing import List, Callable
+from typing_extensions import Self
 from collections.abc import Iterable
 from numbers import Number
 from pybezier.bezier_curve import BezierCurve

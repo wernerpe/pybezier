@@ -1,5 +1,6 @@
 import numpy as np
-from typing import Tuple, List, Callable, Self
+from typing import Tuple, List, Callable
+from typing_extensions import Self
 from numbers import Number
 from pybezier.binomial import binomial
 
